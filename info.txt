@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Chethan S"
+name="Chethan S"
+echo $name
 
